@@ -62,6 +62,9 @@ DSA-Java-Practice/
 ├── 📁 Strings/
 │   └── ValidPalindrome.java
 │
+├── 📁 Math/
+│   └── Reverse Integer.java
+│
 ├── 📁 LinkedList/
 │   └── ReverseLinkedList.java
 │
