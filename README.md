@@ -102,7 +102,7 @@ DSA-Java-Practice/
 **Dasari Muralidhar**  
 B.Tech – Computer Science Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/muralidhar24)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 ---
