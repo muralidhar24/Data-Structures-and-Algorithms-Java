@@ -40,7 +40,7 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 | 🔤 Strings | ✅ Active |
 | 🔗 Linked List | ✅ Active |
 | 📚 Stack | ✅ Active |
-| 🔁 Queue | ✅ Active |
+| 🔁 Queue | 🔄 In Progress |
 | #️⃣ Hashing | ✅ Active |
 | 🔄 Recursion | 🔄 In Progress |
 | 🌳 Trees | 🔄 In Progress |
