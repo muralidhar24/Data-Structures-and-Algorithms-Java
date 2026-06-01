@@ -92,7 +92,7 @@ DSA-Java-Practice/
 ## 💻 Language & Tools
 
 - **Language:** Java (JDK 17+)
-- **IDE:** IntelliJ IDEA / VS Code
+- **IDE:** IntelliJ IDEA / VS Code / Eclipse
 - **Platform:** LeetCode
 
 ---
