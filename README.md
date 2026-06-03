@@ -39,7 +39,7 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 | 📦 Arrays | ✅ Active |
 | 🔤 Strings | ✅ Active |
 | 🔗 Linked List | ✅ Active |
-| 📚 Stack | 🔄 In Progress |
+| 📚 Stack | ✅ Active |
 | 🔁 Queue | 🔄 In Progress |
 | #️⃣ Hashing | ✅ Active |
 | 🔄 Recursion | 🔄 In Progress |
