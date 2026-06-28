@@ -41,7 +41,7 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 | 🔗 Linked List |  In Progress |
 | 🔢 Math | ✅ Active |
 | 📚 Stack | ✅ Active |
-| 🔁 Queue | ✅ Active |
+| 🔁 Queue | 🔄 In Progress |
 | #️⃣ Hashing | ✅ Active |
 | 🔄 Recursion | 🔄 In Progress |
 | 🌳 Trees | 🔄 In Progress |
