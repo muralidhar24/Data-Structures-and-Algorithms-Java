@@ -15,7 +15,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Problems](https://img.shields.io/badge/Goal-300%2B%20Problems-22c55e?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Solved-107%2B%20Problems-22c55e?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-6366f1?style=for-the-badge)
 
 </div>
