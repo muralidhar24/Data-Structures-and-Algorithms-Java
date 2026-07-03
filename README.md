@@ -45,7 +45,7 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 | #️⃣ Hashing | 🔄 In Progress |
 | 🔄 Recursion | 🔄 In Progress |
 | 🌳 Trees | 🔄 In Progress |
-| 🕸️ Graphs | ✅ Active |
+| 🕸️ Graphs | 🔄 In Progress |
 | 💡 Dynamic Programming | 🔄 In Progress |
 | 🧩 Greedy Algorithms | 🔄 In Progress |
 
